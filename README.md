@@ -1,2 +1,2 @@
-Doing the first html project from odin-project!
-Will update at end of project...
+Doing the first html project from odin-project:
+Finished recipes project, 3 delectable items to choose from!
