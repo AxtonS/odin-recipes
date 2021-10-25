@@ -1,0 +1,20 @@
+body{
+    background-color: #570357;
+    color: #00ac00;
+    border: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+a{
+    color: green;
+}
+h1{
+    font-size: 48px; 
+    font-variant: small-caps;
+}
+h2{
+    font-size: 32px;
+}
+img{
+    height: 300px; 
+    width: auto;
